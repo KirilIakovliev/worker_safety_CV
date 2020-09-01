@@ -26,6 +26,7 @@ Folders purpose:
 
 4. training (model configuration and checkpoint path, it is required to extract a tf graph).
 Link for my checkpoint to obtain pretrained weights: https://drive.google.com/open?id=11_8P8vIOYbEIIJOlvPz4xpHnY64QkUyN
+
 Don't forget to put it inside the training folder.
 
 5. Detection_cases (contains frames where inconsistencies are detected 
