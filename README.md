@@ -20,7 +20,7 @@ Folders purpose:
 
 1. Cam_Videos (contains videos from cams for a demo purpose)
 
-2. Frames_Buffer (folder which contains frames with a one-second range)
+2. Frames_Buffer (folder which contains frames with a one-second range) (Temporary, after analysis it is removed automatically)
 
 3. inference_graph (directory for a graph location / model checkpoint)
 
