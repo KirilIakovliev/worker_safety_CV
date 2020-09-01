@@ -1,0 +1,4 @@
+Number of detected objects: 3
+Confidence, %: [('hat', 0.9057624), ('hat', 0.57151634), ('hat', 0.56121266)]
+Time of detection: 10:31:57
+Id cam: 1
