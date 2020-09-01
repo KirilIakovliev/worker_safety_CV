@@ -26,9 +26,13 @@ Folders purpose:
 
 4. training (model configuration and checkpoint path, it is required to extract a tf graph).
 Link for my checkpoint to obtain pretrained weights: https://drive.google.com/open?id=11_8P8vIOYbEIIJOlvPz4xpHnY64QkUyN
+Don't forget to put it inside the training folder.
 
 5. Detection_cases (contains frames where inconsistencies are detected 
 with a detection report)
+
+[Alt text](/Detected_cases/1_frame_10:31:57_.jpg?raw=true "Optional Title")
+
 
 This project is about making system that could detect 
 safety norms violation. In our case, we are trying to detect
