@@ -24,7 +24,7 @@ Folders purpose:
 
 3. inference_graph (directory for a graph location / model checkpoint)
 
-4. training (model configuration and checkpoint path, it is required to extract a tf graph) 
+4. training (model configuration and checkpoint path, it is required to extract a tf graph).
 Link for my checkpoint to obtain pretrained weights: https://drive.google.com/open?id=11_8P8vIOYbEIIJOlvPz4xpHnY64QkUyN
 
 5. Detection_cases (contains frames where inconsistencies are detected 
